@@ -9,7 +9,7 @@ An annoying spam bot with a graphical user interface.
 ### Menu options
 
 - First input field: what word to spam
-- Second input fiels: how many times to spam (in seconds)
+- Second input field: how many times to spam (in seconds)
 - First button: start spammer
 - Second button stop spammer
 
