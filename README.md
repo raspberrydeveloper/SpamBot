@@ -16,7 +16,7 @@ An annoying spam bot with a graphical user interface.
 ### Hidden options
 
 The app has some secret options that you can only change through editing the code:
-- Typing delay: by changing the delaytime varaiable you can set how fast the keyboard will be.
+- Typing delay: by changing the delaytime variable you can set how fast the keyboard will be.
 
 ### Installing...
 
