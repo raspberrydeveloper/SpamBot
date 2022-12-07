@@ -3,7 +3,7 @@ An annoying spam bot with a graphical user interface.
 
 ### Main Interface
 
-<img width="376" alt="image" src="https://user-images.githubusercontent.com/106091011/206196460-97f55c60-468b-4e8e-9054-c565693796b8.png">
+<img width="374" alt="image" src="https://user-images.githubusercontent.com/106091011/206199491-37bf5afc-e339-43a7-86ba-471df487397e.png">
 
 
 ### Menu options
