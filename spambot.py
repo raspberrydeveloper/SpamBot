@@ -50,7 +50,7 @@ def gui():
     entry1 = customtkinter.CTkEntry(master=frame, placeholder_text="The word to spam.")
     entry1.pack(pady=12, padx=10)
 
-    entry2 = customtkinter.CTkEntry(master=frame, placeholder_text="Times to spam the word.")
+    entry2 = customtkinter.CTkEntry(master=frame, placeholder_text="Times to spam.")
     entry2.pack(pady=12, padx=10)
 
     button = customtkinter.CTkButton(master=frame, text="Start", command=threadstart)
